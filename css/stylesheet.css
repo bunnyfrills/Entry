@@ -1,0 +1,86 @@
+h1 {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 700;
+    color:black;
+}
+
+img.wardrobe {
+        max-width: 50%;
+        width: 50%;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+}
+
+h3 {
+    text-align: center;
+    font-size: 13px;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 700;
+    color:black;
+}
+p.page2 {
+    border-style: solid;
+    position: relative;
+    top: 799px;
+    left: 173px;
+    padding-left: 10px;
+    padding-top: 40px;
+    background-color: white;
+    width: 23%;
+}
+
+ h1.page2 {
+    font-family: 'Libre Baskerville', serif;
+    background-color: white;
+    text-align: center;
+ }
+
+ body {
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+  }
+
+  img.parasyte {
+      position: relative;
+      left: 1115px;
+      bottom: 406px;
+  }
+
+  img.spider {
+      position: relative;
+      left: 400px;
+      bottom: 170px;
+  }
+
+  img.arrowback2 {
+    position: relative;
+    top: 900px;
+    left: 100px;
+  }
+
+  img.arrownext2 {
+      position: relative;
+      top: 900px;
+      left: 360px;
+  }
+
+  img.animations {
+      z-index: 2;
+  }
+
+  img.arrow {
+      z-index: 4;
+  }
+
+  p {
+    z-index: 3;
+  }
+
+  h1 {
+    z-index: 3;
+  }
